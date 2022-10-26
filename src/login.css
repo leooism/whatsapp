@@ -1,0 +1,16 @@
+.login {
+	height: 400px;
+	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+	background-color: white;
+	width: 500px;
+	display: grid;
+	place-items: center;
+}
+.login__container > img {
+	object-fit: contain;
+	width: 100%;
+}
+.login_text {
+	margin-bottom: 12px;
+	font-size: 12px;
+}
